@@ -1,0 +1,9 @@
+﻿global using Xunit;
+global using Microsoft.AspNetCore.Mvc.Testing;
+global using SimplifiedCleanArchitectureTemplate.Presentation;
+global using SimplifiedCleanArchitectureTemplate.Shared.Entities;
+global using FluentAssertions;
+global using System.Net;
+global using System.Net.Http.Json;
+global using Microsoft.AspNetCore.Hosting;
+global using System.Diagnostics.CodeAnalysis;
